@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(26,26,26);
+    font-family: "Ubuntu",sans-serif;
+}
+
+.title, .subtitle{
+    text-align: center;
+    color:ghostwhite;
+}
+
+p {
+    color: ghostwhite;
+}
+
+pre {
+    background-color: rgb(109, 109, 109);
+    border-radius: 5px;
+    color: rgb(77, 5, 92);
+}

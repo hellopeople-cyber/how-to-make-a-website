@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(26,26,26);
+    font-family: "Ubuntu",sans-serif;
+}
+.title, .subtitle{
+    text-align: center;
+    color:ghostwhite;
+}
+
+p {
+    color: ghostwhite;
+}
